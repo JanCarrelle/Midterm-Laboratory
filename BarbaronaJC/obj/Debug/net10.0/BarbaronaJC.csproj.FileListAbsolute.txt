@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\bin\Debug\net10.0\BarbaronaJC.exe
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\bin\Debug\net10.0\BarbaronaJC.deps.json
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\bin\Debug\net10.0\BarbaronaJC.runtimeconfig.json
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\bin\Debug\net10.0\BarbaronaJC.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\bin\Debug\net10.0\BarbaronaJC.pdb
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.AssemblyInfo.cs
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\refint\BarbaronaJC.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.pdb
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\BarbaronaJC.genruntimeconfig.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\dsa\BarbaronaJC\obj\Debug\net10.0\ref\BarbaronaJC.dll
